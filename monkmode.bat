@@ -6,6 +6,7 @@ taskkill /f /im steam.exe
 
 :: %~dp0nircmd.exe mutesysvolume 1
 
+clear
 echo Monk Mode Activated – Discipline is Freedom
 timeout /t 2
 
